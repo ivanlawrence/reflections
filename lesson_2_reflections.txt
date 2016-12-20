@@ -6,3 +6,5 @@ How is the staging area different from the working directory and the repository?
 1. Staging area is the holding place for the files that will be part of the next commit, the working directory is any file that is written to the file system.
 2. it allows you to be selective with which files are logically related to eachother even if more files exist in the file system as in, if you added three files but only two are related to each other you can add two with one commit and the other with an additional commit
 
+How can you use the staging area to make sure you have one commit per logical change?
+1. you can add just what you need to include in the staging area to the stage and then commit that, then add more to the stage and commit that, and so on. 
