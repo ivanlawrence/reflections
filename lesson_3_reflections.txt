@@ -1,1 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
+1. disaster recovery, and callaboration
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+1. If you had changes that are not ready to 'go live' you would not want it to auto push...
+-- If you were working on a feature branch then the 'go live' is not really accurate, it would be more like not wanting to let others know you are working on a new feature.
