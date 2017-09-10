@@ -1,5 +1,0 @@
-Lesson three is all about branches and reachability.
-
-Covered detached head and how to checkout a commit.
-
-Then what happens if a commit is checked out and you make a branch out of it.
