@@ -23,3 +23,6 @@ What is the result of merging two branches together? Why do we represent it in t
 1. results is a commit that is the new tip of the master branch (assuming you merge the changes into master)
 2. the new tip/head/master branch commit have all the history of both branches
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+1. If the changes are not complex, meaning, two authors added things that don't seem to conflict because the are seperate, then merge...
+The idea to me is have got handle the 'low hanging fruit' freeing the human for more complex tasks
